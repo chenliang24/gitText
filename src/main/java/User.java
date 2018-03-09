@@ -6,7 +6,9 @@ public class User {
     private String name3;
 
 
+
     public User() {
+        name3="tom";
     }
 
     public Integer getId() {
